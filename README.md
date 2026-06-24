@@ -2,7 +2,7 @@
 
 A Python implementation of the popular **Chain Reaction** strategy game built using **Pygame**. Players take turns placing atoms in cells, causing chain reactions when cells reach critical mass. The objective is to eliminate all opponent atoms and dominate the board.
 
-![Gameplay Screenshot](./assets/gameplay.png)
+![Gameplay Screenshot](./4.png)
 
 ---
 
